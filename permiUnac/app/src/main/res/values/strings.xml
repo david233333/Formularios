@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">permiUnac</string>
+    <string name="hin_NumCedula">Numero de cedula</string>
+    <string name="hin_edad">Edad</string>
+    <string name="hin_Nombre">Nombres</string>
+    <string name="hin_Apellidos">Apellidos</string>
+    <string name="hin_Guardad">Guardar</string>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">permiUnac</string>
+    <string name="hin_NumCedula">Number cedula</string>
+    <string name="hin_edad">Edad</string>
+    <string name="hin_Nombre">Name</string>
+    <string name="hin_Apellidos">Last Name</string>
+    <string name="hin_Guardar">Guardar</string>
+
+
+</resources>
